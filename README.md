@@ -12,3 +12,7 @@ and, if necessary, install pyodbc
 ```bash
 python3 -m pip install pyodbc
 ```
+
+## Acknowledgments
+
+This program was designed and generated with assistance from OpenAI's ChatGPT (GPT-6), based on my original Java and Python stored procedure caller generators.
